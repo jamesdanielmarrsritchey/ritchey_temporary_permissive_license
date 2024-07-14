@@ -1,0 +1,1 @@
+# ritchey_temporary_permissive_license
